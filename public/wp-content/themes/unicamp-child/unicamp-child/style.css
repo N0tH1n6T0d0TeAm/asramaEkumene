@@ -1,0 +1,36 @@
+/*
+Theme Name: Unicamp Child
+Theme URI: https://unicamp.thememove.com/
+Author: ThemeMove
+Author URI: https://thememove.com/
+Version: 1.0.0
+Template: unicamp
+Text Domain: unicamp-child
+Tags: editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap');
+/* Ganti semua font jadi Figtree */
+
+body:not(.elementor-editor-active) {
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    a,
+    li,
+    blockquote,
+    .elementor *:not(i):not([class^="fa"]):not([class*=" fa"]),
+    .site,
+    .site-content,
+    .unicamp-blog *:not(i):not([class^="fa"]):not([class*=" fa"]),
+    .widget *:not(i):not([class^="fa"]):not([class*=" fa"]),
+    input[type="text"],
+    textarea {
+        font-family: 'Figtree', sans-serif !important;
+    }
+}
