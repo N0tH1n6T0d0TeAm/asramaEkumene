@@ -38,3 +38,10 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 - This data appears on this page, and it can be added manually.
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(61).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(63).png)
+
+- Polling System
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(68).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(69).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(70).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(71).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(72).png)
