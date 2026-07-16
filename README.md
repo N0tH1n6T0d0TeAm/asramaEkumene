@@ -17,3 +17,4 @@ Plumpang = for boys
 Tipar Cakung (TC) & Kirana = for girls
 
 The reason these two dormitories were separated is due to limited living space; they were already at full capacity.
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/f0e842d608911574c485e3f57a6c513496d2b1c1/Screenshot%20(44).png)
