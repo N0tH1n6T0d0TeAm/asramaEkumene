@@ -11,4 +11,9 @@ Solution ✅
 The "Visitor" option is for viewing documentation of dormitory activities, while the "Dorm" option is for students and dormitory supervisors to log in and enter data such as attendance records, polls, and QR code scans (to verify that their attendance matches the data in the polls).
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/3f33ae12f824e1688053293b047796c44902ef4f/Screenshot%202026-07-16%20091308.png)
 
-- The public page provides documentation for both boys' and girls' dormitories as well as coed dormitories
+- A publicly available documentation section is provided for visitors. It lists the dormitory administrators, the dormitory addresses, and their activities.
+
+Plumpang = for boys
+Tipar Cakung (TC) & Kirana = for girls
+
+The reason these two dormitories were separated is due to limited living space; they were already at full capacity.
