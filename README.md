@@ -28,4 +28,6 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 - Dorm Page (Register) = Registration account to enter the page
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ceeb3b45d6b98e68da87445172d3b0a5233a991/Screenshot%20(54).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ceeb3b45d6b98e68da87445172d3b0a5233a991/Screenshot%20(55).png)
-  
+
+- Take attendance of the students to ensure they check in using QR SCAN
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/0084308440288fa572a77d92e5f13ada67eee194/Screenshot%20(57).png)
