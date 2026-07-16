@@ -7,5 +7,8 @@ Problem ❌
 
 
 Solution ✅
-- The public page provides documentation for both boys' and girls' dormitories as well as coed dormitories
+- There are two options: "Visitor" and "Dorm":
+The "Visitor" option is for viewing documentation of dormitory activities, while the "Dorm" option is for students and dormitory supervisors to log in and enter data such as attendance records, polls, and QR code scans (to verify that their attendance matches the data in the polls).
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/3f33ae12f824e1688053293b047796c44902ef4f/Screenshot%202026-07-16%20091308.png)
+
+- The public page provides documentation for both boys' and girls' dormitories as well as coed dormitories
