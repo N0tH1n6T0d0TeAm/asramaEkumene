@@ -66,3 +66,14 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(93).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(94).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(95).png)
+
+- Users = To view, search for, filter dormitory addresses, edit, and delete users
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(96).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(97).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(98).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(99).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(100).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(101).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/1e0e996e024f4821b745f8c479c166716cdc6876/Screenshot%20(102).png)
+
+- When you click "Visitor," you will be redirected to the visitor page; similarly, when you log out, you will be redirected to the login page.
