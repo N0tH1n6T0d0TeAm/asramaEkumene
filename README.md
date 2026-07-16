@@ -53,4 +53,4 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(77).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(78).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(79).png)
-
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/2c97d6fdfbb52490aae8d1e749fcc4bb7f422a03/Screenshot%20(81).png)
