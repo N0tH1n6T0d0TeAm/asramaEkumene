@@ -55,7 +55,7 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(79).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/2c97d6fdfbb52490aae8d1e749fcc4bb7f422a03/Screenshot%20(81).png)
 
-- Dorm Documentation
+- Dormitory Impact = As seen in the visitor feature, where visitors can view documentation, the dormitory feature allows users to add, edit, and delete data—including descriptions, images, and dates.
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(82).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(85).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(86).png)
