@@ -55,6 +55,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <!-- Fonts & Icons -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -279,8 +284,7 @@
         <ul>
             <a href="/dorm/dashboard"><li class="@if(request()->is('dorm/dashboard')) active @endif"><i class="fa fa-home"></i> Dashboard</li></a>
             <a href="/dorm/polling" wire:navigate> <li class="@if(request()->is('dorm/polling')) active @endif"><i class="fa fa-chart-bar"></i> Polling</li></a>
-            <a href="/dorm/jadwal_piket" wire:navigate> <li class="@if(request()->is('dorm/jadwal_piket')) active @endif"><i class="fas fa-broom"></i> Jadwal Piket</li></a>
-            <a href="/dorm/izin_keluar" wire:navigate> <li class="@if(request()->is('dorm/izin_keluar')) active @endif"> <i class="fa fa-user"></i> Izin Keluar</li></a>
+            <a href="/dorm/jadwal_piket"> <li class="@if(request()->is('dorm/jadwal_piket')) active @endif"><i class="fas fa-broom"></i> Jadwal Piket</li></a>
             <a href="/dorm/publikasi_kegiatan" wire:navigate> <li class="@if(request()->is('dorm/publikasi_kegiatan')) active @endif"> <i class="fa fa-camera-retro"></i> Dormitory Impact</li></a>
             <a href="/dorm/daftar_pengguna" wire:navigate> <li class="@if(request()->is('dorm/daftar_pengguna')) active @endif"> <i class="fa fa-user"></i> Pengguna</li></a>
             <a href="/visitor" wire:navigate> <li> <i class="fa-solid fa-person"></i> Visitor</li></a>

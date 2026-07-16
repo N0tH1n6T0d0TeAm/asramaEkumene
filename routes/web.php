@@ -60,6 +60,7 @@ use App\Livewire\Login;
 use App\Livewire\Register;
 use App\Livewire\Polling;
 use App\Livewire\DetailPolling;
+use App\Livewire\JadwalPiket as P;
 use App\Livewire\DaftarPengguna;
 use App\Livewire\EditPengguna;
 use App\Livewire\Transportasi;
@@ -105,6 +106,13 @@ Route::post('/dorm/update_polling/{id}', [EditPolling::class, 'update_pollings']
 Route::get('/dorm/update_status_dibuka_polling/{id}', [EditPolling::class, 'update_status_dibuka_pollings']);
 Route::get('/dorm/update_status_ditutup_polling/{id}', [EditPolling::class, 'update_status_ditutup_pollings']);
 
+
+Route::get('dorm/jadwal_piket', P::class);
+Route::post('/tugas-piket/tambah', [P::class, 'tambah']);
+Route::post('/tugas-piket/edit/{id}', [P::class, 'edit']);
+Route::delete('/tugas-piket/hapus/{id}', [P::class, 'hapus']);
+Route::post('/edit-status-pengguna/{id}', [P::class, 'update_status']);
+
 Route::get('dorm/daftar_pengguna', DaftarPengguna::class);
 Route::get('dorm/show_gambar/{id}', [DaftarPengguna::class, 'show_gambar']);
 
@@ -147,6 +155,8 @@ Route::get('/cek-makan', CekMakan::class);
 
 Route::get('/cek-keamanan', CekKeamanan::class);
 Route::post('/katalog-ibadah', [Keamanan::class, 'tambah_data_ibadah']);
+
+
 
 Route::middleware('auth')->get('dorm/logout', [D::class, 'logout']);
 

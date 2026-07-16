@@ -43,6 +43,7 @@ class Register extends Component
         $users->nim = $this->nim_mahasiswa;
         $users->password = bcrypt($this->password);
         $users->kamar = "Belum Ada Kamar";
+        $users->posisi = "asrama";
         $users->save();
 
         Auth::login($users, true);

@@ -15,7 +15,7 @@ class IzinKeluar extends Component
     public function render()
     {
         $data = IzinKeluarz::all();
-        return view('livewire.izin-keluar', ['data' => $data])->layout('components.layouts.navbar2')->slot('main');
+        return view('livewire.izin-keluar', ['data' => $data]);
     }
 
     public function tambah_izin(){
