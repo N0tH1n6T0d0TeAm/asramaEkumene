@@ -8,3 +8,4 @@ Problem ❌
 
 Solution ✅
 - The public page provides documentation for both boys' and girls' dormitories as well as coed dormitories
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/3f33ae12f824e1688053293b047796c44902ef4f/Screenshot%202026-07-16%20091308.png)
