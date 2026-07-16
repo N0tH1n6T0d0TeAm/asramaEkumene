@@ -46,7 +46,7 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(71).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(72).png)
 
-- On-Call Schedule - Add data and automatically assign tasks to members. View today's progress, search for users, and export data to Excel as weekly reports.
+- Duty Schedule - Add data and automatically assign tasks to members. You can view today’s progress, search for users, and export data to Excel as weekly reports. You can also randomize tasks and reset them by pressing the yellow button once a week has passed.
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(74).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(76).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(75).png)
