@@ -39,7 +39,7 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(61).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(63).png)
 
-- Polling System
+- Polling System (C2 means the children's rooms. The data displayed will depend on the user—whether they are from the girls' or boys' dormitory. If the user is from the girls' dormitory, the data will display the name of the girls' dormitory; conversely, if the user is from the boys' dormitory, the data will display the name of the boys' dormitory)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(68).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(69).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(70).png)
