@@ -30,4 +30,4 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ceeb3b45d6b98e68da87445172d3b0a5233a991/Screenshot%20(55).png)
 
 - Take attendance of the students to ensure they check in using QR SCAN
-![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/0084308440288fa572a77d92e5f13ada67eee194/Screenshot%20(57).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/5d31e1a52a1ea6a0f7256ea6ba1a6e573461308c/Screenshot%20(57).png)
