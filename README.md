@@ -46,7 +46,7 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(71).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6ddbf7b4f35ac5f69c35368b4534bc716b3813be/Screenshot%20(72).png)
 
-- Duty Schedule - Add data and automatically assign tasks to members. You can view today’s progress, search for users, and export data to Excel as weekly reports. You can also randomize tasks and reset them by pressing the yellow button once a week has passed.
+- Duty Schedule = Add data and automatically assign tasks to members. You can view today’s progress, search for users, and export data to Excel as weekly reports. You can also randomize tasks and reset them by pressing the yellow button once a week has passed.
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(74).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(76).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(75).png)
@@ -54,3 +54,15 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(78).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/e221c1fed64bfc5d83b33c007ef6ac2341abd52c/Screenshot%20(79).png)
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/2c97d6fdfbb52490aae8d1e749fcc4bb7f422a03/Screenshot%20(81).png)
+
+- Dorm Documentation
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(82).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(85).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(86).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(87).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(90).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(91).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(92).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(93).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(94).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/6291059e808e26a93b56b6e31f5954eb3f9f5a47/Screenshot%20(95).png)
