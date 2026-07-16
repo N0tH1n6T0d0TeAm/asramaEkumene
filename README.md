@@ -31,3 +31,8 @@ The "Visitor" option is for viewing documentation of dormitory activities, while
 
 - Take attendance of the students to ensure they check in using QR SCAN
 ![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/5d31e1a52a1ea6a0f7256ea6ba1a6e573461308c/Screenshot%20(57).png)
+
+- To make the QR, we using https://generatorqr.com/edit/5VEP6YIo3 and it redirect to success-qqr page. It the success-qr page would be automatically store user data for the presence.
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(58).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(61).png)
+![image alt](https://github.com/N0tH1n6T0d0TeAm/asramaEkumene/blob/b861f9dcf8cefdf3f6a65f3ac4f32acad229ecfb/Screenshot%20(63).png)
